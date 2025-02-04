@@ -18,3 +18,4 @@ index abcdef0..0000000
 -# Supprimé pour corriger l'erreur d'initialisation de la constante.
 -# (Contenu original supprimé)
 `
+Execute this patch from metasploit folder
